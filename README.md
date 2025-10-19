@@ -30,7 +30,7 @@ Clone the repository and set up a virtual environment (venv) for isolation:
 
 ```bash
 # Clone the project
-git clone [YOUR_GITHUB_REPOSITORY_URL]
+git clone https://github.com/zach-howard/Python-Log-Analyzer
 cd basic_log_analyzer
 
 # Create and activate the virtual environment
