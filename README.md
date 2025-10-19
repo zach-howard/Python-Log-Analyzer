@@ -1,4 +1,4 @@
-# Basic Log Analyzer (Python) 🛡️
+# Basic Log Analyzer (Python)
 
 ## Project Overview
 
