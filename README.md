@@ -10,8 +10,6 @@ The analyzer focuses on two key indicators:
 
 ## Skills Demonstrated
 
-This project showcases fundamental skills essential for an entry-level Cybersecurity or DevOps role:
-
 | Skill Area | Python Implementation |
 | :--- | :--- |
 | **Log Analysis** | Opens, reads, and processes unstructured text data (simulated access logs). |
